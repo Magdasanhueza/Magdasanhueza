@@ -1,5 +1,5 @@
 <p align="center" width="300">
-  <img align="center" width="200" src="https://user-images.githubusercontent.com/83963136/135882932-44870abd-19d3-450e-9d63-95a3c829d9a6.png" />
+  <img align="center" width="200" src="https://user-images.githubusercontent.com/83963136/135883230-5570d720-cb5a-4fc3-9658-2f21a264e68a.png" />
    <h3 align="center">¡Hola :wave: :smiley:! Soy Magdalena Sanhueza (Mane)!</h3>
 </p>
 
