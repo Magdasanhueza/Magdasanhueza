@@ -1,5 +1,5 @@
 <p align="center" width="300">
-  <img align="center" width="200" src="https://www.flaticon.es/icono-premium/violeta_5344368?term=violetas&page=1&position=28&page=1&position=28&related_id=5344368&origin=search" />
+  <img align="center" width="200" src="![image](https://user-images.githubusercontent.com/83963136/135882390-c0be8acb-3714-45e3-a962-7cc4dd409ec6.png)" />
    <h3 align="center">¡Hola :wave: :smiley:! Soy Magdalena Sanhueza (Mane)!</h3>
 </p>
 
