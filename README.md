@@ -1,6 +1,6 @@
 <p align="center" width="300">
   <img align="center" width="200" src="https://cdn-icons-png.flaticon.com/512/4883/4883476.png" />
-   <h3 align="center">¡Hola :wave: :smiley:! Soy Nico Lara!</h3>
+   <h3 align="center">¡Hola :wave: :smiley:! Soy Magdalena Sanhueza (Mane)!</h3>
 </p>
 
 <p align="center"> <strong>Desarrolladora 𝐅𝐫𝐨𝐧𝐭-𝐄𝐧𝐝</strong> formada en Laboratoria y Tecnóloga Médica en Oftalmología y Optometría, apasionada por los buenos resultados en el trabajo, con conocimientos en el área médica y la tecnología, siempre dispuesta al cambio y a enfrentar nuevos desafíos. Hasta la fecha he desarrollado diferentes proyectos en el bootcamp de Laboratoria como por ejemplo: Trivia - Card validation - Memory Match - Social Network - MdLinks - Burger Queen (utilizando React.js).
